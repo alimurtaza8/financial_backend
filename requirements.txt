@@ -12,12 +12,12 @@ pandas
 aiohttp
 
 # Document processing
-python-docx==1.1.0
-PyPDF2==3.0.1
-Pillow==10.1.0
-pytesseract==0.3.10
-openpyxl==3.1.2
-reportlab==4.0.7
+# python-docx==1.1.0
+# PyPDF2==3.0.1
+# Pillow==10.1.0
+# pytesseract==0.3.10
+# openpyxl==3.1.2
+# reportlab==4.0.7
 
 # AI and external services
 google-generativeai==0.3.2
