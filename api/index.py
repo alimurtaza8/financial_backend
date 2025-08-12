@@ -8,7 +8,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from pydantic import BaseModel, Field
 from typing import List, Dict, Optional, Any, Union
-import pandas as pd
 from datetime import datetime, timedelta
 import json
 import os
