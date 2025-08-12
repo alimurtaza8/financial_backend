@@ -1,0 +1,63 @@
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database files (use environment variables for production)
+*.db
+*.sqlite
+*.sqlite3
+
+# Development files
+.env.local
+.env.development
+.env.test
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Upload and output directories (use cloud storage for production)
+uploads/
+outputs/
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Font files that might be large
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Large assets
+assets/
+
+outputs/
+uploads/
